@@ -4,9 +4,9 @@ import string
 # Case 1
 # Return differnt HTTP response page whether injected conditional queries are true or not
 # Burp Suite Academy Blind SQLi 실습 머신에 적용
-url = "https://0a1d009a04ab2194834600cc000b006d.web-security-academy.net/"
-tracking_id = "trackingIdValue"
-session_cookie = "sessionCookieValue"
+url = "https://0ad9009303cb578280d97b13009b00ed.web-security-academy.net/"
+tracking_id = "5qr0sl5gBUwIYbG1"
+session_cookie = "0pwboOALJtsmz9NZOGBlfdg7zDbO5TLD"
 username = "administrator"
 password_length = 20
 
